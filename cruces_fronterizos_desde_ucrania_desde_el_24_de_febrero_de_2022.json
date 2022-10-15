@@ -1,0 +1,2037 @@
+﻿{
+    "Url": "www.epdata.es/refugiados-ucranianos-huido-guerra-rusia/fc5de9dc-3fe0-4cf3-8d89-dde1085c15cb",
+    "Respuesta": {
+        "Id": "fc5de9dc-3fe0-4cf3-8d89-dde1085c15cb",
+        "Url": "www.epdata.es/refugiados-ucranianos-huido-guerra-rusia/fc5de9dc-3fe0-4cf3-8d89-dde1085c15cb",
+        "Titulo": "Cruces fronterizos desde Ucrania desde el 24 de febrero de 2022",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Desde Ucrania",
+                    "SonDatosNumericos": true,
+                    "Fuente": "ACNUR",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de febrero",
+                            "Parametro": "Día 24 de febrero",
+                            "Valor": 79209,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de febrero",
+                            "Parametro": "Día 25 de febrero",
+                            "Valor": 179525,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de febrero",
+                            "Parametro": "Día 26 de febrero",
+                            "Valor": 322760,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de febrero",
+                            "Parametro": "Día 27 de febrero",
+                            "Valor": 490433,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de febrero",
+                            "Parametro": "Día 28 de febrero",
+                            "Valor": 652445,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de marzo",
+                            "Parametro": "Día 1 de marzo",
+                            "Valor": 818761,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de marzo",
+                            "Parametro": "Día 2 de marzo",
+                            "Valor": 989560,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de marzo",
+                            "Parametro": "Día 3 de marzo",
+                            "Valor": 1173690,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de marzo",
+                            "Parametro": "Día 4 de marzo",
+                            "Valor": 1343790,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de marzo",
+                            "Parametro": "Día 5 de marzo",
+                            "Valor": 1540463,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de marzo",
+                            "Parametro": "Día 6 de marzo",
+                            "Valor": 1742987,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de marzo",
+                            "Parametro": "Día 7 de marzo",
+                            "Valor": 1948991,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de marzo",
+                            "Parametro": "Día 8 de marzo",
+                            "Valor": 2132789,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de marzo",
+                            "Parametro": "Día 9 de marzo",
+                            "Valor": 2301246,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de marzo",
+                            "Parametro": "Día 10 de marzo",
+                            "Valor": 2433558,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de marzo",
+                            "Parametro": "Día 11 de marzo",
+                            "Valor": 2552776,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de marzo",
+                            "Parametro": "Día 12 de marzo",
+                            "Valor": 2666156,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de marzo",
+                            "Parametro": "Día 13 de marzo",
+                            "Valor": 2789420,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de marzo",
+                            "Parametro": "Día 14 de marzo",
+                            "Valor": 2900291,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de marzo",
+                            "Parametro": "Día 15 de marzo",
+                            "Valor": 3007520,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de marzo",
+                            "Parametro": "Día 16 de marzo",
+                            "Valor": 3108406,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de marzo",
+                            "Parametro": "Día 17 de marzo",
+                            "Valor": 3191919,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de marzo",
+                            "Parametro": "Día 18 de marzo",
+                            "Valor": 3270755,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de marzo",
+                            "Parametro": "Día 19 de marzo",
+                            "Valor": 3343434,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de marzo",
+                            "Parametro": "Día 20 de marzo",
+                            "Valor": 3401677,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de marzo",
+                            "Parametro": "Día 21 de marzo",
+                            "Valor": 3460430,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de marzo",
+                            "Parametro": "Día 22 de marzo",
+                            "Valor": 3524562,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de marzo",
+                            "Parametro": "Día 23 de marzo",
+                            "Valor": 3586938,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de marzo",
+                            "Parametro": "Día 24 de marzo",
+                            "Valor": 3653436,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de marzo",
+                            "Parametro": "Día 25 de marzo",
+                            "Valor": 3716127,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de marzo",
+                            "Parametro": "Día 26 de marzo",
+                            "Valor": 3777051,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de marzo",
+                            "Parametro": "Día 27 de marzo",
+                            "Valor": 3830949,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de marzo",
+                            "Parametro": "Día 28 de marzo",
+                            "Valor": 3879068,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de marzo",
+                            "Parametro": "Día 29 de marzo",
+                            "Valor": 3921481,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de marzo",
+                            "Parametro": "Día 30 de marzo",
+                            "Valor": 3972820,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 31 de marzo",
+                            "Parametro": "Día 31 de marzo",
+                            "Valor": 4025932,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de abril",
+                            "Parametro": "Día 1 de abril",
+                            "Valor": 4074831,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de abril",
+                            "Parametro": "Día 2 de abril",
+                            "Valor": 4125824,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de abril",
+                            "Parametro": "Día 3 de abril",
+                            "Valor": 4173337,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de abril",
+                            "Parametro": "Día 4 de abril",
+                            "Valor": 4218065,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de abril",
+                            "Parametro": "Día 5 de abril",
+                            "Valor": 4267209,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de abril",
+                            "Parametro": "Día 6 de abril",
+                            "Valor": 4322205,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de abril",
+                            "Parametro": "Día 7 de abril",
+                            "Valor": 4377667,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de abril",
+                            "Parametro": "Día 8 de abril",
+                            "Valor": 4437007,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de abril",
+                            "Parametro": "Día 9 de abril",
+                            "Valor": 4499306,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de abril",
+                            "Parametro": "Día 10 de abril",
+                            "Valor": 4554408,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de abril",
+                            "Parametro": "Día 11 de abril",
+                            "Valor": 4608108,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de abril",
+                            "Parametro": "Día 12 de abril",
+                            "Valor": 4662999,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de abril",
+                            "Parametro": "Día 13 de abril",
+                            "Valor": 4718591,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de abril",
+                            "Parametro": "Día 14 de abril",
+                            "Valor": 4777081,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de abril",
+                            "Parametro": "Día 15 de abril",
+                            "Valor": 4831290,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de abril",
+                            "Parametro": "Día 16 de abril",
+                            "Valor": 4876680,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de abril",
+                            "Parametro": "Día 17 de abril",
+                            "Valor": 4914996,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de abril",
+                            "Parametro": "Día 18 de abril",
+                            "Valor": 4959759,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de abril",
+                            "Parametro": "Día 19 de abril",
+                            "Valor": 5013506,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de abril",
+                            "Parametro": "Día 20 de abril",
+                            "Valor": 5063740,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de abril",
+                            "Parametro": "Día 21 de abril",
+                            "Valor": 5112058,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de abril",
+                            "Parametro": "Día 22 de abril",
+                            "Valor": 5154360,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de abril",
+                            "Parametro": "Día 23 de abril",
+                            "Valor": 5190003,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de abril",
+                            "Parametro": "Día 24 de abril",
+                            "Valor": 5212090,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de abril",
+                            "Parametro": "Día 25 de abril",
+                            "Valor": 5244021,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de abril",
+                            "Parametro": "Día 26 de abril",
+                            "Valor": 5292508,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de abril",
+                            "Parametro": "Día 27 de abril",
+                            "Valor": 5347117,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de abril",
+                            "Parametro": "Día 28 de abril",
+                            "Valor": 5403488,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de abril",
+                            "Parametro": "Día 29 de abril",
+                            "Valor": 5457721,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de abril",
+                            "Parametro": "Día 30 de abril",
+                            "Valor": 5510890,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de mayo",
+                            "Parametro": "Día 1 de mayo",
+                            "Valor": 5551223,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de mayo",
+                            "Parametro": "Día 2 de mayo",
+                            "Valor": 5588314,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de mayo",
+                            "Parametro": "Día 3 de mayo",
+                            "Valor": 5629564,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de mayo",
+                            "Parametro": "Día 4 de mayo",
+                            "Valor": 5679591,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de mayo",
+                            "Parametro": "Día 5 de mayo",
+                            "Valor": 5728113,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de mayo",
+                            "Parametro": "Día 6 de mayo",
+                            "Valor": 5779588,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de mayo",
+                            "Parametro": "Día 7 de mayo",
+                            "Valor": 5834145,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de mayo",
+                            "Parametro": "Día 8 de mayo",
+                            "Valor": 5880812,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de mayo",
+                            "Parametro": "Día 9 de mayo",
+                            "Valor": 5911853,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de mayo",
+                            "Parametro": "Día 10 de mayo",
+                            "Valor": 5949099,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de mayo",
+                            "Parametro": "Día 11 de mayo",
+                            "Valor": 5996825,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de mayo",
+                            "Parametro": "Día 12 de mayo",
+                            "Valor": 6046921,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de mayo",
+                            "Parametro": "Día 13 de mayo",
+                            "Valor": 6094809,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de mayo",
+                            "Parametro": "Día 14 de mayo",
+                            "Valor": 6141703,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de mayo",
+                            "Parametro": "Día 15 de mayo",
+                            "Valor": 6189218,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de mayo",
+                            "Parametro": "Día 16 de mayo",
+                            "Valor": 6231848,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de mayo",
+                            "Parametro": "Día 17 de mayo",
+                            "Valor": 6276834,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de mayo",
+                            "Parametro": "Día 18 de mayo",
+                            "Valor": 6325220,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de mayo",
+                            "Parametro": "Día 19 de mayo",
+                            "Valor": 6372948,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de mayo",
+                            "Parametro": "Día 20 de mayo",
+                            "Valor": 6425000,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de mayo",
+                            "Parametro": "Día 21 de mayo",
+                            "Valor": 6473725,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de mayo",
+                            "Parametro": "Día 22 de mayo",
+                            "Valor": 6514957,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de mayo",
+                            "Parametro": "Día 23 de mayo",
+                            "Valor": 6557241,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de mayo",
+                            "Parametro": "Día 24 de mayo",
+                            "Valor": 6603785,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de mayo",
+                            "Parametro": "Día 25 de mayo",
+                            "Valor": 6652164,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de mayo",
+                            "Parametro": "Día 26 de mayo",
+                            "Valor": 6700411,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de mayo",
+                            "Parametro": "Día 27 de mayo",
+                            "Valor": 6745562,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de mayo",
+                            "Parametro": "Día 28 de mayo",
+                            "Valor": 6797327,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de mayo",
+                            "Parametro": "Día 29 de mayo",
+                            "Valor": 6841416,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de mayo",
+                            "Parametro": "Día 30 de mayo",
+                            "Valor": 6888355,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 31 de mayo",
+                            "Parametro": "Día 31 de mayo",
+                            "Valor": 6937546,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de junio",
+                            "Parametro": "Día 1 de junio",
+                            "Valor": 6985799,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de junio",
+                            "Parametro": "Día 2 de junio",
+                            "Valor": 7034596,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de junio",
+                            "Parametro": "Día 3 de junio",
+                            "Valor": 7084496,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de junio",
+                            "Parametro": "Día 4 de junio",
+                            "Valor": 7134281,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de junio",
+                            "Parametro": "Día 5 de junio",
+                            "Valor": 7176559,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de junio",
+                            "Parametro": "Día 6 de junio",
+                            "Valor": 7221827,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de junio",
+                            "Parametro": "Día 7 de junio",
+                            "Valor": 7270939,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de junio",
+                            "Parametro": "Día 8 de junio",
+                            "Valor": 7313667,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de junio",
+                            "Parametro": "Día 9 de junio",
+                            "Valor": 7366368,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de junio",
+                            "Parametro": "Día 10 de junio",
+                            "Valor": 7420775,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de junio",
+                            "Parametro": "Día 11 de junio",
+                            "Valor": 7476185,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de junio",
+                            "Parametro": "Día 12 de junio",
+                            "Valor": 7521823,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de junio",
+                            "Parametro": "Día 13 de junio",
+                            "Valor": 7567024,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de junio",
+                            "Parametro": "Día 14 de junio",
+                            "Valor": 7618506,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de junio",
+                            "Parametro": "Día 15 de junio",
+                            "Valor": 7673467,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de junio",
+                            "Parametro": "Día 16 de junio",
+                            "Valor": 7727863,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de junio",
+                            "Parametro": "Día 17 de junio",
+                            "Valor": 7786169,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de junio",
+                            "Parametro": "Día 18 de junio",
+                            "Valor": 7843040,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de junio",
+                            "Parametro": "Día 19 de junio",
+                            "Valor": 7899287,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de junio",
+                            "Parametro": "Día 20 de junio",
+                            "Valor": 7950234,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de junio",
+                            "Parametro": "Día 21 de junio",
+                            "Valor": 8007014,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de junio",
+                            "Parametro": "Día 22 de junio",
+                            "Valor": 8069043,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de junio",
+                            "Parametro": "Día 23 de junio",
+                            "Valor": 8133324,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de junio",
+                            "Parametro": "Día 24 de junio",
+                            "Valor": 8195757,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de junio",
+                            "Parametro": "Día 25 de junio",
+                            "Valor": 8257603,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de junio",
+                            "Parametro": "Día 26 de junio",
+                            "Valor": 8309264,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de junio",
+                            "Parametro": "Día 27 de junio",
+                            "Valor": 8356169,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de junio",
+                            "Parametro": "Día 28 de junio",
+                            "Valor": 8402336,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "A Ucrania",
+                    "SonDatosNumericos": true,
+                    "Fuente": "ACNUR",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de febrero",
+                            "Parametro": "Día 24 de febrero",
+                            "Valor": 10946,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de febrero",
+                            "Parametro": "Día 25 de febrero",
+                            "Valor": 22737,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de febrero",
+                            "Parametro": "Día 26 de febrero",
+                            "Valor": 35130,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de febrero",
+                            "Parametro": "Día 27 de febrero",
+                            "Valor": 46112,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de febrero",
+                            "Parametro": "Día 28 de febrero",
+                            "Valor": 55309,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de marzo",
+                            "Parametro": "Día 1 de marzo",
+                            "Valor": 66222,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de marzo",
+                            "Parametro": "Día 2 de marzo",
+                            "Valor": 76598,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de marzo",
+                            "Parametro": "Día 3 de marzo",
+                            "Valor": 86915,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de marzo",
+                            "Parametro": "Día 4 de marzo",
+                            "Valor": 96389,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de marzo",
+                            "Parametro": "Día 5 de marzo",
+                            "Valor": 107717,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de marzo",
+                            "Parametro": "Día 6 de marzo",
+                            "Valor": 118375,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de marzo",
+                            "Parametro": "Día 7 de marzo",
+                            "Valor": 127511,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de marzo",
+                            "Parametro": "Día 8 de marzo",
+                            "Valor": 137426,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de marzo",
+                            "Parametro": "Día 9 de marzo",
+                            "Valor": 147916,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de marzo",
+                            "Parametro": "Día 10 de marzo",
+                            "Valor": 170333,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de marzo",
+                            "Parametro": "Día 11 de marzo",
+                            "Valor": 182674,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de marzo",
+                            "Parametro": "Día 12 de marzo",
+                            "Valor": 195801,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de marzo",
+                            "Parametro": "Día 13 de marzo",
+                            "Valor": 208232,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de marzo",
+                            "Parametro": "Día 14 de marzo",
+                            "Valor": 217609,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de marzo",
+                            "Parametro": "Día 15 de marzo",
+                            "Valor": 228626,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de marzo",
+                            "Parametro": "Día 16 de marzo",
+                            "Valor": 241091,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de marzo",
+                            "Parametro": "Día 17 de marzo",
+                            "Valor": 254074,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de marzo",
+                            "Parametro": "Día 18 de marzo",
+                            "Valor": 270187,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de marzo",
+                            "Parametro": "Día 19 de marzo",
+                            "Valor": 288874,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de marzo",
+                            "Parametro": "Día 20 de marzo",
+                            "Valor": 305567,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de marzo",
+                            "Parametro": "Día 21 de marzo",
+                            "Valor": 317764,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de marzo",
+                            "Parametro": "Día 22 de marzo",
+                            "Valor": 331134,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de marzo",
+                            "Parametro": "Día 23 de marzo",
+                            "Valor": 344865,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de marzo",
+                            "Parametro": "Día 24 de marzo",
+                            "Valor": 359561,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de marzo",
+                            "Parametro": "Día 25 de marzo",
+                            "Valor": 375764,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de marzo",
+                            "Parametro": "Día 26 de marzo",
+                            "Valor": 395458,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de marzo",
+                            "Parametro": "Día 27 de marzo",
+                            "Valor": 412601,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de marzo",
+                            "Parametro": "Día 28 de marzo",
+                            "Valor": 428238,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de marzo",
+                            "Parametro": "Día 29 de marzo",
+                            "Valor": 444894,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de marzo",
+                            "Parametro": "Día 30 de marzo",
+                            "Valor": 462878,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 31 de marzo",
+                            "Parametro": "Día 31 de marzo",
+                            "Valor": 481670,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de abril",
+                            "Parametro": "Día 1 de abril",
+                            "Valor": 501123,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de abril",
+                            "Parametro": "Día 2 de abril",
+                            "Valor": 525206,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de abril",
+                            "Parametro": "Día 3 de abril",
+                            "Valor": 544379,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de abril",
+                            "Parametro": "Día 4 de abril",
+                            "Valor": 561432,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de abril",
+                            "Parametro": "Día 5 de abril",
+                            "Valor": 579315,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de abril",
+                            "Parametro": "Día 6 de abril",
+                            "Valor": 598357,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de abril",
+                            "Parametro": "Día 7 de abril",
+                            "Valor": 615900,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de abril",
+                            "Parametro": "Día 8 de abril",
+                            "Valor": 636012,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de abril",
+                            "Parametro": "Día 9 de abril",
+                            "Valor": 661561,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de abril",
+                            "Parametro": "Día 10 de abril",
+                            "Valor": 684457,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de abril",
+                            "Parametro": "Día 11 de abril",
+                            "Valor": 705446,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de abril",
+                            "Parametro": "Día 12 de abril",
+                            "Valor": 727286,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de abril",
+                            "Parametro": "Día 13 de abril",
+                            "Valor": 751987,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de abril",
+                            "Parametro": "Día 14 de abril",
+                            "Valor": 779493,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de abril",
+                            "Parametro": "Día 15 de abril",
+                            "Valor": 810266,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de abril",
+                            "Parametro": "Día 16 de abril",
+                            "Valor": 843376,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de abril",
+                            "Parametro": "Día 17 de abril",
+                            "Valor": 867714,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de abril",
+                            "Parametro": "Día 18 de abril",
+                            "Valor": 886269,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de abril",
+                            "Parametro": "Día 19 de abril",
+                            "Valor": 910408,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de abril",
+                            "Parametro": "Día 20 de abril",
+                            "Valor": 938283,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de abril",
+                            "Parametro": "Día 21 de abril",
+                            "Valor": 966944,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de abril",
+                            "Parametro": "Día 22 de abril",
+                            "Valor": 996236,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de abril",
+                            "Parametro": "Día 23 de abril",
+                            "Valor": 1020962,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de abril",
+                            "Parametro": "Día 24 de abril",
+                            "Valor": 1035338,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de abril",
+                            "Parametro": "Día 25 de abril",
+                            "Valor": 1049966,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de abril",
+                            "Parametro": "Día 26 de abril",
+                            "Valor": 1069431,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de abril",
+                            "Parametro": "Día 27 de abril",
+                            "Valor": 1093123,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de abril",
+                            "Parametro": "Día 28 de abril",
+                            "Valor": 1118622,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de abril",
+                            "Parametro": "Día 29 de abril",
+                            "Valor": 1146179,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de abril",
+                            "Parametro": "Día 30 de abril",
+                            "Valor": 1178893,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de mayo",
+                            "Parametro": "Día 1 de mayo",
+                            "Valor": 1207719,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de mayo",
+                            "Parametro": "Día 2 de mayo",
+                            "Valor": 1231077,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de mayo",
+                            "Parametro": "Día 3 de mayo",
+                            "Valor": 1253424,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de mayo",
+                            "Parametro": "Día 4 de mayo",
+                            "Valor": 1276738,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de mayo",
+                            "Parametro": "Día 5 de mayo",
+                            "Valor": 1301794,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de mayo",
+                            "Parametro": "Día 6 de mayo",
+                            "Valor": 1326261,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de mayo",
+                            "Parametro": "Día 7 de mayo",
+                            "Valor": 1352050,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de mayo",
+                            "Parametro": "Día 8 de mayo",
+                            "Valor": 1373438,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de mayo",
+                            "Parametro": "Día 9 de mayo",
+                            "Valor": 1392707,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de mayo",
+                            "Parametro": "Día 10 de mayo",
+                            "Valor": 1420979,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de mayo",
+                            "Parametro": "Día 11 de mayo",
+                            "Valor": 1455445,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de mayo",
+                            "Parametro": "Día 12 de mayo",
+                            "Valor": 1489579,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de mayo",
+                            "Parametro": "Día 13 de mayo",
+                            "Valor": 1523827,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de mayo",
+                            "Parametro": "Día 14 de mayo",
+                            "Valor": 1562828,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de mayo",
+                            "Parametro": "Día 15 de mayo",
+                            "Valor": 1602792,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de mayo",
+                            "Parametro": "Día 16 de mayo",
+                            "Valor": 1636827,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de mayo",
+                            "Parametro": "Día 17 de mayo",
+                            "Valor": 1669412,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de mayo",
+                            "Parametro": "Día 18 de mayo",
+                            "Valor": 1704964,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de mayo",
+                            "Parametro": "Día 19 de mayo",
+                            "Valor": 1740088,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de mayo",
+                            "Parametro": "Día 20 de mayo",
+                            "Valor": 1777580,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de mayo",
+                            "Parametro": "Día 21 de mayo",
+                            "Valor": 1819752,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de mayo",
+                            "Parametro": "Día 22 de mayo",
+                            "Valor": 1860190,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de mayo",
+                            "Parametro": "Día 23 de mayo",
+                            "Valor": 1889783,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de mayo",
+                            "Parametro": "Día 24 de mayo",
+                            "Valor": 1918605,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de mayo",
+                            "Parametro": "Día 25 de mayo",
+                            "Valor": 1948743,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de mayo",
+                            "Parametro": "Día 26 de mayo",
+                            "Valor": 1978341,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de mayo",
+                            "Parametro": "Día 27 de mayo",
+                            "Valor": 2014654,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de mayo",
+                            "Parametro": "Día 28 de mayo",
+                            "Valor": 2054533,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 29 de mayo",
+                            "Parametro": "Día 29 de mayo",
+                            "Valor": 2092182,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 30 de mayo",
+                            "Parametro": "Día 30 de mayo",
+                            "Valor": 2125235,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 31 de mayo",
+                            "Parametro": "Día 31 de mayo",
+                            "Valor": 2160146,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 1 de junio",
+                            "Parametro": "Día 1 de junio",
+                            "Valor": 2197384,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 2 de junio",
+                            "Parametro": "Día 2 de junio",
+                            "Valor": 2224366,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 3 de junio",
+                            "Parametro": "Día 3 de junio",
+                            "Valor": 2256792,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 4 de junio",
+                            "Parametro": "Día 4 de junio",
+                            "Valor": 2293225,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 5 de junio",
+                            "Parametro": "Día 5 de junio",
+                            "Valor": 2326979,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 6 de junio",
+                            "Parametro": "Día 6 de junio",
+                            "Valor": 2356913,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 7 de junio",
+                            "Parametro": "Día 7 de junio",
+                            "Valor": 2384859,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 8 de junio",
+                            "Parametro": "Día 8 de junio",
+                            "Valor": 2413483,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 9 de junio",
+                            "Parametro": "Día 9 de junio",
+                            "Valor": 2442332,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 10 de junio",
+                            "Parametro": "Día 10 de junio",
+                            "Valor": 2475312,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 11 de junio",
+                            "Parametro": "Día 11 de junio",
+                            "Valor": 2511442,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 12 de junio",
+                            "Parametro": "Día 12 de junio",
+                            "Valor": 2545258,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 13 de junio",
+                            "Parametro": "Día 13 de junio",
+                            "Valor": 2579102,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 14 de junio",
+                            "Parametro": "Día 14 de junio",
+                            "Valor": 2607621,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 15 de junio",
+                            "Parametro": "Día 15 de junio",
+                            "Valor": 2639632,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 16 de junio",
+                            "Parametro": "Día 16 de junio",
+                            "Valor": 2673655,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 17 de junio",
+                            "Parametro": "Día 17 de junio",
+                            "Valor": 2707093,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 18 de junio",
+                            "Parametro": "Día 18 de junio",
+                            "Valor": 2740347,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 19 de junio",
+                            "Parametro": "Día 19 de junio",
+                            "Valor": 2773190,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 20 de junio",
+                            "Parametro": "Día 20 de junio",
+                            "Valor": 2804095,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 21 de junio",
+                            "Parametro": "Día 21 de junio",
+                            "Valor": 2836563,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 22 de junio",
+                            "Parametro": "Día 22 de junio",
+                            "Valor": 2870156,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 23 de junio",
+                            "Parametro": "Día 23 de junio",
+                            "Valor": 2905052,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 24 de junio",
+                            "Parametro": "Día 24 de junio",
+                            "Valor": 2940457,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 25 de junio",
+                            "Parametro": "Día 25 de junio",
+                            "Valor": 2981551,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 26 de junio",
+                            "Parametro": "Día 26 de junio",
+                            "Valor": 3023109,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 27 de junio",
+                            "Parametro": "Día 27 de junio",
+                            "Valor": 3063899,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Día 28 de junio",
+                            "Parametro": "Día 28 de junio",
+                            "Valor": 3097412,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

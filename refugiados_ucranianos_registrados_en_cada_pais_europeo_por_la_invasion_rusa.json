@@ -1,0 +1,265 @@
+﻿{
+    "Url": "www.epdata.es/refugiados-ucranianos-registrados-cada-pais/2dc0eb49-934c-474d-a327-5d7fa45bf10f",
+    "Respuesta": {
+        "Id": "2dc0eb49-934c-474d-a327-5d7fa45bf10f",
+        "Url": "www.epdata.es/refugiados-ucranianos-registrados-cada-pais/2dc0eb49-934c-474d-a327-5d7fa45bf10f",
+        "Titulo": "Refugiados ucranianos registrados en cada país europeo por la invasión rusa",
+        "Subtitulo": "Sin contar las naciones vecinas. A 30 de junio",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Personas",
+                    "SonDatosNumericos": true,
+                    "Fuente": "ACNUR",
+                    "Clasificacion": null,
+                    "Unidad": "Personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Alemania",
+                            "Valor": 662274,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Austria",
+                            "Valor": 73768,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Bélgica",
+                            "Valor": 47493,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Bulgaria",
+                            "Valor": 118413,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Chipre",
+                            "Valor": 13676,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Croacia",
+                            "Valor": 15004,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Dinamarca",
+                            "Valor": 28612,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Eslovenia",
+                            "Valor": 6861,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "España",
+                            "Valor": 123802,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Estonia",
+                            "Valor": 28046,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Finlandia",
+                            "Valor": 28735,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Francia",
+                            "Valor": 87972,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Grecia",
+                            "Valor": 14887,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Irlanda",
+                            "Valor": 38742,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Islandia",
+                            "Valor": 877,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Italia",
+                            "Valor": 127362,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Letonia",
+                            "Valor": 32921,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Liechtenstein",
+                            "Valor": 229,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Lituania",
+                            "Valor": 47504,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Luxemburgo",
+                            "Valor": 5775,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Malta",
+                            "Valor": 1139,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Montenegro",
+                            "Valor": 4355,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Noruega",
+                            "Valor": 18994,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Países Bajos",
+                            "Valor": 66780,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Portugal",
+                            "Valor": 43938,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "R. Checa",
+                            "Valor": 382617,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Reino Unido",
+                            "Valor": 86600,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Serbia y Kosovo",
+                            "Valor": 761,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Suecia",
+                            "Valor": 38572,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Suiza",
+                            "Valor": 54710,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
