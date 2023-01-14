@@ -43,5 +43,5 @@
         "alumno": "Pato",
         "nota": 9.09,
         "ranking": 320
-    },
-]
+    }
+];
