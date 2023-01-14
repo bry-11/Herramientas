@@ -1,47 +1,47 @@
 [
     {
         "alumno": "Bryan",
-        "nota": 4.09,
-        "ranking": 100
+        "nota": 10,
+        "ranking": 50
     },
     {
         "alumno": "Paul",
-        "nota": 6.09,
-        "ranking": 200
+        "nota": 9,
+        "ranking": 100
     },
     {
         "alumno": "Jose",
-        "nota": 2.09,
+        "nota": 8,
         "ranking": 150
     },
     {
         "alumno": "Manuel",
-        "nota": 8.09,
-        "ranking": 50
+        "nota": 7,
+        "ranking": 200
     },
     {
         "alumno": "Raul",
-        "nota": 7.09,
-        "ranking": 300
+        "nota": 6,
+        "ranking": 250
     },
     {
         "alumno": "Pepe",
-        "nota": 1.09,
-        "ranking": 350
+        "nota": 5,
+        "ranking": 300
     },
     {
         "alumno": "Ariel",
-        "nota": 5.09,
-        "ranking": 220
+        "nota": 4,
+        "ranking": 350
     },
     {
         "alumno": "Daniel",
-        "nota": 3.09,
-        "ranking": 10
+        "nota": 3,
+        "ranking": 400
     },
     {
         "alumno": "Pato",
-        "nota": 9.09,
-        "ranking": 320
+        "nota": 2,
+        "ranking": 450
     }
 ]
